@@ -61,7 +61,9 @@ public class Main{
 ```
 
 ## OUTPUT:
-<img src="![alt text](image-1.png)">
+
+![image](https://github.com/user-attachments/assets/a78c75dd-db1d-4329-af18-558ca6814a64)
+
 
 ## RESULT:
 Thus the java program to display the addition number using private modifiers only was executed successfully.
