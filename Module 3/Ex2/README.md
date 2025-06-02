@@ -50,14 +50,7 @@ System.out.println(sb);
 
 
 ## OUTPUT:
-```
-Input         Expected       Got
+![image](https://github.com/user-attachments/assets/e2c9476f-b5d1-4338-a855-6f49d4ae2449)
 
-Hello         Hello Java     Hello Java
-Java 
-
-Hi            Hi Welcome     Hi Welcome
-Welcome
-```
 ## RESULT:
 Thus the java program use append() method concatenates the given argument with this String and use stringbuffer class was executed successfully.
