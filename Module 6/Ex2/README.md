@@ -75,16 +75,8 @@ public class Main
 
 
 ## OUTPUT:
-```
-Input	   Expected	                             Got	
+![image](https://github.com/user-attachments/assets/de87d910-9f0c-44db-8516-5c27c4018eed)
 
-2        Shapes Class                          Shapes Class
-         Area of Circle is 12.56               Area of Circle is 12.56
-
-3        Shapes Class                          Shapes Class
-        Area of Circle is 28.259999999999998   Area of Circle is 28.259999999999998
-
-```
 ## RESULT:
 Thus the java program for multi-level inheritance was executed successfully.
 
