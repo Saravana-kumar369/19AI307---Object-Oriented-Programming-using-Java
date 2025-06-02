@@ -25,7 +25,7 @@ To create a java program to read 5 values and display the all 5 values from arra
 ## PROGRAM:
  ```
 /*
-Program to implement a variable and operators using Java
+Program using Java
 Developed by: SARAVANA KUMAR M
 RegisterNumber:  212222230133
 */

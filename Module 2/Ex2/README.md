@@ -25,7 +25,7 @@ b)	Call the `display(8, 9)` method on the `ad` object
 ## PROGRAM:
  ```
 /*
-Program to implement a variable and operators using Java
+Program using Java
 Developed by: SARAVANA KUMAR M
 RegisterNumber:  212222230133
 */
@@ -61,12 +61,7 @@ public class Main{
 ```
 
 ## OUTPUT:
-
-```
-Expected    Got 
-
-17          17
-```
+<img src="![alt text](image-1.png)">
 
 ## RESULT:
 Thus the java program to display the addition number using private modifiers only was executed successfully.

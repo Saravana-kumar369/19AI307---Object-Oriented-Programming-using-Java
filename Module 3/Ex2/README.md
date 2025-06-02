@@ -23,7 +23,7 @@ To develop a java program use append() method concatenates the given argument wi
 ## PROGRAM:
  ```
 /*
-Program to implement a variable and operators using Java
+Program using Java
 Developed by: SARAVANA KUMAR M
 RegisterNumber:  212222230133
 */

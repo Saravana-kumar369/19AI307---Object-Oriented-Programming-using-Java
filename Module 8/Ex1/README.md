@@ -25,7 +25,7 @@ RegisterNumber:  212222230133
    
 FileOutputStream fout=new FileOutputStream("testout.txt");    
 String s="HI EVERYBODY...";    
-byte b[]=s.getBytes();//converting string into byte array    
+byte b[]=s.getBytes(); 
 fout.write(b);    
 fout.close();    
 System.out.println("Successfully Completed");

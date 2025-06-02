@@ -40,7 +40,7 @@ To write a Java program for below situation, Student object contains member 'Stu
 ## PROGRAM:
  ```
 /*
-Program to implement a variable and operators using Java
+Program using Java
 Developed by: SARAVANA KUMAR M
 RegisterNumber:  212222230133
 */

@@ -17,7 +17,7 @@ To write a Java program that reads an array size and elements from the user and 
 ## PROGRAM:
  ```
 /*
-Program to implement a variable and operators using Java
+Program using Java
 Developed by: SARAVANA KUMAR M
 RegisterNumber:  212222230133
 */

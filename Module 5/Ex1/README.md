@@ -41,7 +41,7 @@ To Create a java program to display the age of the person.Use access modifier pr
 ## PROGRAM:
  ```
 /*
-Program to implement a variable and operators using Java
+Program using Java
 Developed by: SARAVANA KUMAR M
 RegisterNumber:  212222230133
 */

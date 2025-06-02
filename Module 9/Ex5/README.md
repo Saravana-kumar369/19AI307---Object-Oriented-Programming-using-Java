@@ -36,13 +36,13 @@ public class Main {
     String data = "String Writer";
 
     try {
-      // Create a StringWriter with default string buffer capacity
+      
       StringWriter output = new StringWriter();
 
-      // Writes data to the string buffer
+
       output.write(data);
 
-      // Prints the string writer
+
       System.out.println("Data in the StringWriter: " + output);
 
       output.close();

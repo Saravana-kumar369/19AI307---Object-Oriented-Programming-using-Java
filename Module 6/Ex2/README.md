@@ -21,7 +21,7 @@ To Develop a Java program to perform Multilevel Inheritance to calculate the are
 ## PROGRAM:
  ```
 /*
-Program to implement a variable and operators using Java
+Program using Java
 Developed by: SARAVANA KUMAR M
 RegisterNumber:  212222230133
 */

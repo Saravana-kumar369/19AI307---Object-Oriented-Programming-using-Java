@@ -26,17 +26,14 @@ RegisterNumber:  212222230133
 ```
 ## Sourcecode.java:
 ```java
-/* Online Java Compiler and Editor */
 class Pattern {
 
-  // method without parameter
   public void display() {
     for (int i = 0; i < 10; i++) {
       System.out.print("5");
     }
   }
 
-  // method with single parameter
   public void display(char symbol) {
     for (int i = 0; i < 10; i++) {
       System.out.print(symbol);
@@ -51,11 +48,9 @@ public class HelloWorld{
      {
         Pattern d1 = new Pattern();
 
-    // call method without any argument
     d1.display();
     System.out.println("\n");
 
-    // call method with a single argument
     d1.display('#');
      }
 }

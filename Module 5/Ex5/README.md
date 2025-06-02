@@ -27,7 +27,7 @@ To implement a java program for area of triangle with the help of getter and set
 ## PROGRAM:
  ```
 /*
-Program to implement a variable and operators using Java
+Program using Java
 Developed by: SARAVANA KUMAR M
 RegisterNumber:  212222230133
 */

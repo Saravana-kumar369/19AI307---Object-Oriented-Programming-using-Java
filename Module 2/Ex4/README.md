@@ -21,7 +21,7 @@ To create a java program that returns the sum of all the values in a 2D array.
 ## PROGRAM:
  ```
 /*
-Program to implement a variable and operators using Java
+Program using Java
 Developed by: SARAVANA KUMAR M
 RegisterNumber:  212222230133
 */

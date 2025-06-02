@@ -50,7 +50,7 @@ Call the getPrice() method in the main method of the Sample class  and store the
 ## PROGRAM:
  ```
 /*
-Program to implement a variable and operators using Java
+Program using Java
 Developed by: SARAVANA KUMAR M
 RegisterNumber:  212222230133
 */

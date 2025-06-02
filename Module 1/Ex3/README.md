@@ -37,7 +37,7 @@ To write a Java program that takes a number between 1 and 5 from the user and di
 ## PROGRAM:
  ```
 /*
-Program to implement a variable and operators using Java
+Program using Java
 Developed by: SARAVANA KUMAR M
 RegisterNumber:  212222230133
 */
